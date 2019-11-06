@@ -1,0 +1,67 @@
+{
+  "elements": [
+    {
+      "ProvinceName": "Koshi Pradesh",
+      "ProvinceNum": "Province No. 1",
+      "ProvinceStates": "Total Projects: 7",
+      "xpos": 0,
+      "ypos": 1,
+      "zpos": 1,
+      "category": "Lottery"
+    },
+    {
+      "ProvinceName": "Janaki Pradesh",
+      "ProvinceNum": "Province No. 2",
+      "ProvinceStates": "Total Projects: 7",
+      "xpos": 1,
+      "ypos": 1,
+      "zpos": 1,
+      "category": "Electronics Accessories"
+    },
+    {
+      "ProvinceName": "Bagmati Pradesh",
+      "ProvinceNum": "Province No. 3",
+      "ProvinceStates": "Total Projects: 7",
+      "xpos": 2,
+      "ypos": 1,
+      "zpos": 1,
+      "category": "Lottery"
+    },
+    {
+      "ProvinceName": "Gandaki Pradesh",
+      "ProvinceNum": "Province No. 4",
+      "ProvinceStates": "Total Projects: 7",
+      "xpos": 3,
+      "ypos": 1,
+      "zpos": 1,
+      "category": "Snacks"
+    },
+    {
+      "ProvinceName": "Rapti Pradesh",
+      "ProvinceNum": "Province No. 5",
+      "ProvinceStates": "Total Projects: 7",
+      "xpos": 4,
+      "ypos": 1,
+      "zpos": 1,
+      "category": "Others"
+    },
+    {
+      "ProvinceName": "Karnali Pradesh",
+      "ProvinceNum": "Province No. 6",
+      "ProvinceStates": "Total Projects: 7",
+      "xpos": 5,
+      "ypos": 1,
+      "zpos": 1,
+      "category": "Smokes and Drinks"
+    },
+    {
+      "ProvinceName": "Sudurpaschim",
+      "ProvinceNum": "Province No. 7",
+      "ProvinceStates": "Total Projects: 7",
+      "xpos": 6,
+      "ypos": 1,
+      "zpos": 2,
+      "category": "Home Appliances"
+    }
+  ]
+}

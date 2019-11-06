@@ -1,0 +1,142 @@
+{
+  "data" : {
+    "url" : "province.csv"
+  },
+  "mark" : "sphere",
+  "encoding" : {
+    "x" : {
+      "field" : "Province",
+      "type" : "nominal",
+      "scale" : {
+        "type" : "point",
+        "domain" : [
+          "Koshi",
+          "Madhesh",
+          "Bagmati",
+          "Gandaki",
+          "Lumbini",
+          "Karnali",
+          "SudurPachhim"
+        ],
+        "padding" : "0.05",
+        "range" : [
+          "0",
+          "500"
+        ],
+        "paddingInner" : "0.05",
+        "paddingOuter" : "0.05"
+      },
+      "axis" : {
+        "filter" : false,
+        "face" : "front",
+        "orient" : "bottom",
+        "title" : "Country",
+        "length" : 500,
+        "color" : "#bebebe",
+        "grid" : false,
+        "ticks" : true,
+        "values" : [
+          "Algeria",
+          "Angola",
+          "Australia",
+          "Bangladesh",
+          "Canada",
+          "China",
+          "France",
+          "Germany",
+          "Hungary",
+          "Indonesia",
+          "Iran",
+          "Italy",
+          "Japan",
+          "Panama",
+          "Sweden",
+          "Ukraine",
+          "United Kingdom",
+          "United States"
+        ],
+        "tickCount" : 18,
+        "labels" : true
+      }
+    },
+    "y" : {
+      "field" : "Profit",
+      "type" : "quantitative",
+      "scale" : {
+        "type" : "linear",
+        "domain" : [
+          "0",
+          "9"
+        ],
+        "padding" : "0.05",
+        "range" : [
+          "0",
+          "500"
+        ],
+        "paddingInner" : "0.05",
+        "paddingOuter" : "0.05"
+      },
+      "axis" : {
+        "filter" : false,
+        "face" : "front",
+        "orient" : "left",
+        "title" : "Quantity",
+        "length" : 500,
+        "color" : "#bebebe",
+        "grid" : false,
+        "ticks" : true,
+        "values" : [
+          "0",
+          "1.8",
+          "3.6",
+          "5.4",
+          "7.2",
+          "9"
+        ],
+        "tickCount" : 6,
+        "labels" : true
+      }
+    },
+    "z" : {
+      "field" : "Ship Mode",
+      "type" : "nominal",
+      "scale" : {
+        "type" : "point",
+        "domain" : [
+          "First Class",
+          "Same Day",
+          "Second Class",
+          "Standard Class"
+        ],
+        "padding" : "0.05",
+        "range" : [
+          "0",
+          "500"
+        ],
+        "paddingInner" : "0.05",
+        "paddingOuter" : "0.05"
+      },
+      "axis" : {
+        "filter" : false,
+        "face" : "left",
+        "orient" : "bottom",
+        "title" : "Ship Mode",
+        "length" : 500,
+        "color" : "#bebebe",
+        "grid" : false,
+        "ticks" : true,
+        "values" : [
+          "First Class",
+          "Same Day",
+          "Second Class",
+          "Standard Class"
+        ],
+        "tickCount" : 4,
+        "labels" : true
+      }
+    }
+  },
+  "width" : 500,
+  "height" : 500,
+  "depth" : 500
+}

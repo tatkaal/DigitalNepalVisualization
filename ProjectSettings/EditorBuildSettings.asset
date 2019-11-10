@@ -5,22 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/Calendar.unity
-    guid: c46d0e3bb3752ca46ae691e8756a2ece
-  - enabled: 0
-    path: Assets/Scenes/Department.unity
-    guid: e111468517601894383822cafb737a16
-  - enabled: 0
-    path: Assets/Scenes/Product.unity
-    guid: 9b75037f529ca7841a5df597fee525ca
   - enabled: 1
-    path: Assets/Scenes/infoscene.unity
-    guid: 2094fad852300464a83cc0982f77f88e
-  - enabled: 1
-    path: Assets/Scenes/Demo_scene.unity
-    guid: 2b90041c02fa0424794af2d500508091
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
+    path: Assets/Scenes/MainScene.unity
+    guid: f901e71ffca13eb46a9cc47c4008de55
   m_configObjects: {}

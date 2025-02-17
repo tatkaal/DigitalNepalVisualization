@@ -1,6 +1,6 @@
 # Digital Nepal Visualization
 
-> **A Mixed Reality demonstration for visualizing geographical and governmental project data of Nepal in an immersive environment.**
+> **A Mixed Reality demonstration for visualizing geographical and governmental project data of Nepal in an immersive environment using dell visor/Hololens.**
 
 ---
 
@@ -96,7 +96,7 @@ You can open this folder directly in **Unity 2018.4.9f1** (or a compatible versi
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/YourUsername/Digital-Nepal-Visualization.git
+   git clone https://github.com/tatkaal/DigitalNepalVisualization.git
    ```
 
 2. **Open in Unity**  
